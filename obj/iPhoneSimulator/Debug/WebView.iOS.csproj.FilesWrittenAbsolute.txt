@@ -1,0 +1,12 @@
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/
+/Users/harry/Projects/WebView/WebView.iOS/bin/iPhoneSimulator/Debug/WebView.iOS.exe.mdb
+/Users/harry/Projects/WebView/WebView.iOS/bin/iPhoneSimulator/Debug/WebView.iOS.exe
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/WebView.iOS.exe
+/Users/harry/Projects/WebView/WebView.iOS/obj/iPhoneSimulator/Debug/WebView.iOS.exe.mdb
